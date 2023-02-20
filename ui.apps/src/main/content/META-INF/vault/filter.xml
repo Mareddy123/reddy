@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/reddy/clientlibs"/>
+    <filter root="/apps/reddy/components"/>
+    <filter root="/apps/reddy/i18n"/>
+</workspaceFilter>
